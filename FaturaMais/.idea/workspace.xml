@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7001a1a5-552a-4369-8b2d-3d517ff80e18" name="Default" comment="" />
+    <list default="true" id="7001a1a5-552a-4369-8b2d-3d517ff80e18" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/ PSI_PWS_PL1_2201111" beforeDir="false" afterPath="$PROJECT_DIR$/ PSI_PWS_PL1_2201111" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/view/home/index.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/view/home/index.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/view/layout/footer.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/view/layout/footer.phtml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +81,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/ PSI_PWS_PL1_2201111" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -82,9 +97,6 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
-  </component>
-  <component name="PhpServers">
-    <servers />
   </component>
   <component name="PhpTemplates">
     <option name="NEW_PHP_FILE_LAST_EXTENSION" value="phtml" />
@@ -148,6 +160,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1ZA5DMEVoRQ6Eu1IVf9Y3ueUDaG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -159,7 +172,14 @@
     <property name="SearchEverywhereHistoryKey" value="Debugger::barDump&#9;null&#9;null&#10;code sty&#9;ACTION&#9;ChangeCodeStyleScheme&#10;Session::start&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PSI_PWS_PL1-E-main" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="php.override.implement.member.chooser.php.doc" value="DEFAULT" />
     <property name="recentsLimit" value="5" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -244,6 +264,7 @@
       <workItem from="1622025622640" duration="271000" />
       <workItem from="1650449506286" duration="305000" />
       <workItem from="1650450153038" duration="743000" />
+      <workItem from="1650576224681" duration="2465000" />
     </task>
     <servers />
   </component>
@@ -258,6 +279,18 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
