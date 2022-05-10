@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7001a1a5-552a-4369-8b2d-3d517ff80e18" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/ PSI_PWS_PL1_2201111" beforeDir="false" afterPath="$PROJECT_DIR$/ PSI_PWS_PL1_2201111" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="7001a1a5-552a-4369-8b2d-3d517ff80e18" name="Default" comment="Titulos e texto do index.phtml e footer.phtml da página inicial alterados.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/view/home/index.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/view/home/index.phtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/view/layout/footer.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/view/layout/footer.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/startup/config/db.php" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/startup/config/db.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -264,8 +261,17 @@
       <workItem from="1622025622640" duration="271000" />
       <workItem from="1650449506286" duration="305000" />
       <workItem from="1650450153038" duration="743000" />
-      <workItem from="1650576224681" duration="2465000" />
+      <workItem from="1650576224681" duration="3451000" />
+      <workItem from="1652212944404" duration="822000" />
     </task>
+    <task id="LOCAL-00001" summary="Titulos e texto do index.phtml e footer.phtml da página inicial alterados.">
+      <created>1650579255620</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650579255620</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -299,6 +305,10 @@
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Titulos e texto do index.phtml e footer.phtml da página inicial alterados." />
+    <option name="LAST_COMMIT_MESSAGE" value="Titulos e texto do index.phtml e footer.phtml da página inicial alterados." />
   </component>
   <component name="masterDetails">
     <states>
