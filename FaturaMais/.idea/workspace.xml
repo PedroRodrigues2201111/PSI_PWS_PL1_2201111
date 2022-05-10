@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7001a1a5-552a-4369-8b2d-3d517ff80e18" name="Default" comment="teste">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7001a1a5-552a-4369-8b2d-3d517ff80e18" name="Default" comment="teste" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -261,7 +259,7 @@
       <workItem from="1650449506286" duration="305000" />
       <workItem from="1650450153038" duration="743000" />
       <workItem from="1650576224681" duration="3451000" />
-      <workItem from="1652212944404" duration="2136000" />
+      <workItem from="1652212944404" duration="2487000" />
     </task>
     <task id="LOCAL-00001" summary="Titulos e texto do index.phtml e footer.phtml da página inicial alterados.">
       <created>1650579255620</created>
@@ -284,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652214328252</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="teste">
+      <created>1652215508213</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652215508213</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
